@@ -9,7 +9,7 @@ TEAM MEMBER 4 :https://trailblazer.me/id/braja145
 
 GITHUB URL :
 
-TEAM LEADER :
+TEAM LEADER :https://github.com/Nmambrish02
 TEAM MEMBER 1 :https://github.com/bharathinm
 TEAM MEMBER 2 :https://github.com/nmananth03
 TEAM MEMBER 3 :https://github.com/manikandanmaari
